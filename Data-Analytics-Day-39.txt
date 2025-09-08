@@ -1,0 +1,39 @@
+Topics & Explanations
+
+1. Data Storytelling with Visuals
+=================================
+Data isn’t just about numbers — it’s about telling a story that influences decisions.
+
+Example: Instead of showing a raw sales table, build a trend line with annotations showing how a new campaign boosted revenue.
+
+
+2. Choosing the Right Chart Type
+===============================
+Line chart → for trends over time.
+Bar chart → for comparing categories.
+Heatmap → for spotting intensity/patterns.
+
+Example: A heatmap of sales by region & month instantly highlights peak seasons.
+
+
+3. Interactive Dashboards
+=========================
+Interactive dashboards in Power BI/Tableau let users explore data themselves.
+
+Example: A retail manager can filter by product category and instantly see sales impact across locations.
+
+
+4. Data-Driven Business Decisions
+================================
+Data insights must connect to actionable outcomes.
+
+Example: If data shows 40% cart abandonment on mobile, the business can invest in improving the checkout flow.
+
+
+5. Case Study – Marketing Campaign Analysis
+========================================
+Campaign launched → Collect click, conversion, and ROI data.
+Use visual storytelling → Show ROI uplift with interactive dashboards.
+
+Example: A marketing manager used Tableau to reveal that email campaigns had 2× ROI vs social ads, influencing budget allocation.
+
